@@ -1,0 +1,50 @@
+1001#Language selection successful!
+1002#Next step
+1003#Welcome to the first aid cabin, you will experience daily first aid through the first perspective of this vr tour! Good luck!
+1004#restore past progress
+1005#Start a new journey!
+1006#Please select the scene you want to experience:
+1007#Bite1007
+1008#Open wound
+1009#Heimlik First Aid
+1010#Heat stroke
+1011#Burn
+1012#Gas poisioning
+1013#Enter the scene!
+1014#You and your sister are enjoying the holiday at home. The sensible sister said that she would cook you a delicious lunch in the kitchen, but she has been in the kitchen for a long time, and there is a strange smell coming from the kitchen. Go and see what happened !
+1015#Hint: Oops gas leak!        Step 1: Turn off the gas valve!
+1016#Step2: pick up my sister and go to a place with fresh air!
+1017#Step 3: Open the windows!
+1018# Step 4: Make sure my sister can breathe freely!
+1019# Step 4: Keep warm to prevent my sister from getting a cold and causing lung infection!
+1020# Step 5: Call the emergency number!
+1021# Congratulations on completing the first aid for household gas poisoning!
+1022# About gas poisoning
+1023#Symptoms: Gas poisoning is carbon monoxide poisoning. In mild poisoning, the patient feels dizzy, weak, nausea, and vomiting; in severe poisoning, the face and lips are cherry red, and confusion, disturbance of consciousness, dyspnea and even death may occur. Prohibition: Light an open flame or turn on the light switch at the gas poisoning site, otherwise it is easy to cause an explosion. First aid measures: Once gas poisoning occurs, immediately open the doors and windows, close the gas valve, move the poisoned person to a place where the air is ventilated, unbutton the patient's clothes to make breathing smooth, keep warm, prevent lung infection caused by cold, turn over regularly, and avoid pressure on the buttocks hurt. If the patient stops breathing, artificial respiration should be performed immediately, and if there is still no relief, the patient should be sent to the hospital for emergency treatment.
+1024#Other scene selection
+1025#Save the progress of the current scene
+1026#Reload this scene
+1027#Switch to other scenes
+1028#Control menu distance
+1029#Scene control menu
+1030#Blanket
+1031#Call
+1032#High pressure water gun
+1033#Please call the firemen!
+1034#Firemen and ambulances are on their way!
+1035#Wanderer: Help me! my arm is burned
+1036#Step 1: Pick up the water gun and put out the flames!
+1037#Step 2: Dial the fire department and ambulance quickly!
+1038#Step 3: Help the wounded cut off the coat!Rinse with cool water for at least 10 minutes until the burning is gone.
+1039#Step 4: Simply wrap the wound with gauze to avoid infection of the broken skin wound!
+1040#Please call the firemen!
+1041#water gun
+1042#Rinse done!
+1043#Congratulations on completing first aid for burns! Go to the next first aid scene!
+1044#Go to the next scene!
+1045#Step 1:Move the person with heat stroke to a cool place!
+1046#Step 2: Put the casualty flat on the bed, keeping the casualty's feet at a high position.
+1047#Step 3: Pick up the water bottle on the table and feed the wounded.
+1048#Step 4: Use the remote control on the table to turn on the fan.
+1049#Step 5: Pick up the mobile phone on the table and make an emergency call!
+1050#Congratulations on completing First Aid for Heat Stroke!
